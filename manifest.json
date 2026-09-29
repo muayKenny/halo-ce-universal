@@ -1,0 +1,377 @@
+{
+  "version": 2,
+  "files": [
+    {
+      "name": "maps/a10.map",
+      "size": 173903872,
+      "sha256": "f7461e5b6eaf0314c4f03a1c6e43752b06ae3e4782b70b240a8c15e5f634b3ce",
+      "chunks": [
+        {
+          "path": "chunks/a10.map.part000",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/a10.map.part001",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/a10.map.part002",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/a10.map.part003",
+          "size": 22908928
+        }
+      ]
+    },
+    {
+      "name": "maps/a30.map",
+      "size": 152610816,
+      "sha256": "4875fa105e6c517589a796cfdcc7fcaa07e98df13d14e601bfc9eb1eab7e30b5",
+      "chunks": [
+        {
+          "path": "chunks/a30.map.part000",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/a30.map.part001",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/a30.map.part002",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/a30.map.part003",
+          "size": 1615872
+        }
+      ]
+    },
+    {
+      "name": "maps/a50.map",
+      "size": 176224256,
+      "sha256": "f8ec33c0130191cf944ef7b4a3f210bb680cfd1341cdf3a6ef3447391049abe7",
+      "chunks": [
+        {
+          "path": "chunks/a50.map.part000",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/a50.map.part001",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/a50.map.part002",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/a50.map.part003",
+          "size": 25229312
+        }
+      ]
+    },
+    {
+      "name": "maps/b30.map",
+      "size": 162877440,
+      "sha256": "a6e2ae628f96b666922d6429541068c3e117e8aa5031d00d187b3c853630be0f",
+      "chunks": [
+        {
+          "path": "chunks/b30.map.part000",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/b30.map.part001",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/b30.map.part002",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/b30.map.part003",
+          "size": 11882496
+        }
+      ]
+    },
+    {
+      "name": "maps/b40.map",
+      "size": 186873856,
+      "sha256": "0a7b26d6d828e7b773d36d9d5c798b9bf4b143332301a0c0e7a3d685782eab48",
+      "chunks": [
+        {
+          "path": "chunks/b40.map.part000",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/b40.map.part001",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/b40.map.part002",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/b40.map.part003",
+          "size": 35878912
+        }
+      ]
+    },
+    {
+      "name": "maps/beavercreek.map",
+      "size": 22122496,
+      "sha256": "c65ac17d830552cdebfc173c1e8aa17f1f009149138c2c8e72afda1f79f88a60",
+      "chunks": [
+        {
+          "path": "chunks/beavercreek.map.part000",
+          "size": 22122496
+        }
+      ]
+    },
+    {
+      "name": "maps/bloodgulch.map",
+      "size": 22571008,
+      "sha256": "50fe52406f075d975e24100a65b26ff696458023dd3509878953052ab0ef858f",
+      "chunks": [
+        {
+          "path": "chunks/bloodgulch.map.part000",
+          "size": 22571008
+        }
+      ]
+    },
+    {
+      "name": "maps/boardingaction.map",
+      "size": 22075392,
+      "sha256": "e14cebccd63f7780e1f5da7a1687a37bdaa3f0821701095075336ef548889efb",
+      "chunks": [
+        {
+          "path": "chunks/boardingaction.map.part000",
+          "size": 22075392
+        }
+      ]
+    },
+    {
+      "name": "maps/c10.map",
+      "size": 166926336,
+      "sha256": "d65683f92e2f78cf8ba4d31c26b212869652b5d5ec037add480865a49e18434e",
+      "chunks": [
+        {
+          "path": "chunks/c10.map.part000",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/c10.map.part001",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/c10.map.part002",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/c10.map.part003",
+          "size": 15931392
+        }
+      ]
+    },
+    {
+      "name": "maps/c20.map",
+      "size": 76980224,
+      "sha256": "6560cd88af4c5b4e2f02f14017085a7b47e9a9622198c30f36b03d3d3943d6b8",
+      "chunks": [
+        {
+          "path": "chunks/c20.map.part000",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/c20.map.part001",
+          "size": 26648576
+        }
+      ]
+    },
+    {
+      "name": "maps/c40.map",
+      "size": 166295552,
+      "sha256": "b5fb3db5b111280e8494c5ec7612604d7facd1e0a511987afa38a228a115a896",
+      "chunks": [
+        {
+          "path": "chunks/c40.map.part000",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/c40.map.part001",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/c40.map.part002",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/c40.map.part003",
+          "size": 15300608
+        }
+      ]
+    },
+    {
+      "name": "maps/carousel.map",
+      "size": 20215808,
+      "sha256": "1c6353df6e4530437841b09775e62fa067caa46bb0e40f4579bbf2276991a38e",
+      "chunks": [
+        {
+          "path": "chunks/carousel.map.part000",
+          "size": 20215808
+        }
+      ]
+    },
+    {
+      "name": "maps/chillout.map",
+      "size": 20336640,
+      "sha256": "81819e9d7037a6b6c4e9a7472a431ebb53ed25ea00d8af634ac8384f1fe13d8b",
+      "chunks": [
+        {
+          "path": "chunks/chillout.map.part000",
+          "size": 20336640
+        }
+      ]
+    },
+    {
+      "name": "maps/d20.map",
+      "size": 131012608,
+      "sha256": "6b38b4776f4be1e9e12063db202e5809245aae0ded3d9cef56602d7fd69c96be",
+      "chunks": [
+        {
+          "path": "chunks/d20.map.part000",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/d20.map.part001",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/d20.map.part002",
+          "size": 30349312
+        }
+      ]
+    },
+    {
+      "name": "maps/d40.map",
+      "size": 170405888,
+      "sha256": "7c6dccc9f928f4a44db992c4d6f5fa6191e9cfd331bb0d0b631540f0fc9bc796",
+      "chunks": [
+        {
+          "path": "chunks/d40.map.part000",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/d40.map.part001",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/d40.map.part002",
+          "size": 50331648
+        },
+        {
+          "path": "chunks/d40.map.part003",
+          "size": 19410944
+        }
+      ]
+    },
+    {
+      "name": "maps/damnation.map",
+      "size": 23756800,
+      "sha256": "8b97ca7d73a4b720ba1b88deeb5a250b02a3f6886ffd2ddaa789cc9ad05e47b8",
+      "chunks": [
+        {
+          "path": "chunks/damnation.map.part000",
+          "size": 23756800
+        }
+      ]
+    },
+    {
+      "name": "maps/hangemhigh.map",
+      "size": 21338112,
+      "sha256": "932a3a13a69fff5dd6e69c9b2c896c1bf3942c54a2a207975c4d0da4df07ed30",
+      "chunks": [
+        {
+          "path": "chunks/hangemhigh.map.part000",
+          "size": 21338112
+        }
+      ]
+    },
+    {
+      "name": "maps/longest.map",
+      "size": 20512768,
+      "sha256": "12977a4042ecb960cbe48ef936046a35c6754c18829ad2d17206b66ddd03864e",
+      "chunks": [
+        {
+          "path": "chunks/longest.map.part000",
+          "size": 20512768
+        }
+      ]
+    },
+    {
+      "name": "maps/prisoner.map",
+      "size": 21323776,
+      "sha256": "50740d89600b7fa53613ced764fa6e688434a8132948224658bf1ed07662aa3d",
+      "chunks": [
+        {
+          "path": "chunks/prisoner.map.part000",
+          "size": 21323776
+        }
+      ]
+    },
+    {
+      "name": "maps/putput.map",
+      "size": 19777536,
+      "sha256": "7f5d13335d44982b0fbf7aad6b767d035aa64b32bf5c38d6d29bf20916fce5d4",
+      "chunks": [
+        {
+          "path": "chunks/putput.map.part000",
+          "size": 19777536
+        }
+      ]
+    },
+    {
+      "name": "maps/ratrace.map",
+      "size": 23840768,
+      "sha256": "ad83896842b2303d145b944f644e4ddfe8d0dd80feda7efcb058a0f567a6bdec",
+      "chunks": [
+        {
+          "path": "chunks/ratrace.map.part000",
+          "size": 23840768
+        }
+      ]
+    },
+    {
+      "name": "maps/sidewinder.map",
+      "size": 24823808,
+      "sha256": "210f7a01bac7b4c242483b1a640e0bc32fb0a2b4f97f56e69668720563b34912",
+      "chunks": [
+        {
+          "path": "chunks/sidewinder.map.part000",
+          "size": 24823808
+        }
+      ]
+    },
+    {
+      "name": "maps/ui.map",
+      "size": 14145536,
+      "sha256": "35e3e560478d85178749be310ad13d6d6ecde618d32675261a3554592333a833",
+      "chunks": [
+        {
+          "path": "chunks/ui.map.part000",
+          "size": 14145536
+        }
+      ]
+    },
+    {
+      "name": "maps/wizard.map",
+      "size": 19687424,
+      "sha256": "e782ad19071efa1c73f30be44feb6b7e073e15f00337e23d877a8e9776f2f3ad",
+      "chunks": [
+        {
+          "path": "chunks/wizard.map.part000",
+          "size": 19687424
+        }
+      ]
+    }
+  ]
+}
